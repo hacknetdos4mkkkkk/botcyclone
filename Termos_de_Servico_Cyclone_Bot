@@ -1,0 +1,112 @@
+Termos de Serviço do Bot Cyclone
+
+Última atualização: 20 de Junho de 2026
+
+Bem-vindo(a) ao Bot Cyclone! Estes Termos de Serviço ("Termos") regem o seu acesso e uso do Bot Cyclone ("o Bot"), um serviço de bot para Discord desenvolvido para auxiliar na gestão de cargos e verificação de membros em servidores do Discord. Ao adicionar ou usar o Bot Cyclone em qualquer servidor do Discord, você concorda em cumprir e estar vinculado(a) a estes Termos. Se você não concordar com qualquer parte destes Termos, você não deve usar o Bot.
+
+1. Definições
+
+•
+Bot Cyclone: Refere-se ao bot do Discord e a todos os seus recursos e funcionalidades.
+
+•
+Usuário: Qualquer indivíduo que interage com o Bot Cyclone ou que faz parte de um servidor onde o Bot está presente.
+
+•
+Serviço: As funcionalidades e operações fornecidas pelo Bot Cyclone, incluindo, mas não se limitando a, gerenciamento de cargos, verificação de usuários e comandos de administração.
+
+•
+Desenvolvedor: A entidade responsável pela criação, manutenção e operação do Bot Cyclone.
+
+2. Aceitação dos Termos
+
+Ao utilizar o Bot Cyclone, você reconhece que leu, compreendeu e concordou com estes Termos. O uso continuado do Bot após quaisquer alterações nestes Termos constitui sua aceitação dessas alterações.
+
+3. Uso do Bot
+
+3.1. Permissões
+
+O Bot Cyclone requer certas permissões no seu servidor Discord para funcionar corretamente. Ao adicionar o Bot, você concede as permissões necessárias para que ele execute suas funções, como gerenciar cargos, enviar mensagens e interagir com membros. É responsabilidade do administrador do servidor garantir que o Bot tenha as permissões adequadas e que estas sejam gerenciadas de forma segura.
+
+3.2. Restrições de Uso
+
+Você concorda em não usar o Bot Cyclone para:
+
+•
+Violar quaisquer leis ou regulamentos aplicáveis.
+
+•
+Promover ou engajar-se em discurso de ódio, assédio, discriminação ou qualquer forma de comportamento prejudicial.
+
+•
+Distribuir spam, malware ou qualquer conteúdo malicioso.
+
+•
+Tentar obter acesso não autorizado a sistemas, dados ou contas de outros usuários.
+
+•
+Interferir ou interromper a operação do Bot ou dos servidores do Discord.
+
+•
+Qualquer atividade que possa prejudicar a reputação do Bot Cyclone ou do Discord.
+
+3.3. Conduta do Usuário
+
+Você é responsável por todas as suas ações e comunicações ao usar o Bot Cyclone. Você deve usar o Bot de forma respeitosa e em conformidade com as diretrizes da comunidade do Discord.
+
+4. Privacidade e Coleta de Dados
+
+O Bot Cyclone coleta e armazena dados mínimos necessários para sua operação. Estes dados incluem:
+
+•
+IDs de Usuários: Para identificar membros durante processos de verificação e atribuição de cargos.
+
+•
+IDs de Servidores: Para configurar e manter as configurações específicas de cada servidor.
+
+•
+IDs de Cargos: Para gerenciar e atribuir cargos conforme as configurações do servidor.
+
+•
+Apelidos de Usuários: Para fins de verificação e personalização de mensagens.
+
+•
+IDs de Mensagens: Para rastrear mensagens de verificação e permitir atualizações.
+
+Estes dados são armazenados em arquivos .ini localmente no ambiente de execução do Bot. O Desenvolvedor se compromete a não compartilhar, vender ou divulgar esses dados a terceiros, exceto quando exigido por lei. O Desenvolvedor toma medidas razoáveis para proteger os dados armazenados, mas não pode garantir segurança absoluta.
+
+5. Responsabilidades
+
+5.1. Responsabilidade do Desenvolvedor
+
+O Desenvolvedor se esforça para manter o Bot Cyclone funcional e atualizado. No entanto, o Bot é fornecido "como está", sem garantias de qualquer tipo, expressas ou implícitas. O Desenvolvedor não se responsabiliza por quaisquer danos, perdas ou interrupções resultantes do uso ou da incapacidade de usar o Bot.
+
+5.2. Responsabilidade do Usuário/Administrador do Servidor
+
+Você é o único responsável por:
+
+•
+As configurações e permissões concedidas ao Bot em seu servidor.
+
+•
+O conteúdo e a conduta dos membros em seu servidor.
+
+•
+Garantir que o uso do Bot esteja em conformidade com as políticas do Discord e as leis locais.
+
+6. Limitação de Responsabilidade
+
+Em nenhuma circunstância o Desenvolvedor será responsável por quaisquer danos diretos, indiretos, incidentais, especiais, consequenciais ou exemplares, incluindo, mas não se limitando a, danos por perda de lucros, boa vontade, uso, dados ou outras perdas intangíveis, resultantes do uso ou da incapacidade de usar o Bot Cyclone.
+
+7. Modificações dos Termos
+
+O Desenvolvedor reserva-se o direito de modificar estes Termos a qualquer momento. As alterações entrarão em vigor imediatamente após a publicação dos Termos revisados. É sua responsabilidade revisar periodicamente estes Termos para estar ciente de quaisquer modificações. O uso continuado do Bot após a publicação de Termos revisados constitui sua aceitação dessas alterações.
+
+8. Disposições Gerais
+
+Estes Termos serão regidos e interpretados de acordo com as leis do Brasil, sem considerar seus princípios de conflito de leis. Qualquer disputa decorrente ou relacionada a estes Termos será submetida à jurisdição exclusiva dos tribunais localizados no Brasil.
+
+9. Contato
+
+Se você tiver alguma dúvida ou preocupação sobre estes Termos de Serviço ou sobre o Bot Cyclone, entre em contato com o Desenvolvedor através do servidor de suporte oficial do Bot ou por outros meios de contato fornecidos.
+
