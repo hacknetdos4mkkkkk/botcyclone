@@ -1,0 +1,90 @@
+Política de Privacidade do Bot Cyclone
+
+Última atualização: 20 de Junho de 2026
+
+Esta Política de Privacidade descreve como o Bot Cyclone ("o Bot"), um serviço de bot para Discord, coleta, usa e protege as informações dos usuários. Ao adicionar ou usar o Bot Cyclone em qualquer servidor do Discord, você concorda com as práticas descritas nesta política. Se você não concordar com qualquer parte desta Política de Privacidade, você não deve usar o Bot.
+
+1. Informações que Coletamos
+
+O Bot Cyclone coleta e armazena apenas as informações estritamente necessárias para o seu funcionamento e para fornecer os serviços de gerenciamento de cargos e verificação de membros. As informações coletadas incluem:
+
+•
+IDs de Usuários (User IDs): Identificadores únicos de usuários do Discord, utilizados para associar informações de verificação e cargos atribuídos. Estes IDs são essenciais para o funcionamento dos comandos de verificação e atribuição de cargos.
+
+•
+IDs de Servidores (Guild IDs): Identificadores únicos de servidores do Discord, utilizados para armazenar configurações específicas de cada servidor, como o canal de verificação e cargos de recrutamento.
+
+•
+IDs de Cargos (Role IDs): Identificadores únicos de cargos do Discord, utilizados para gerenciar e atribuir cargos aos usuários durante o processo de verificação ou duplicação de cargos.
+
+•
+Apelidos de Usuários (Nicknames): O apelido que o usuário define durante o processo de verificação é armazenado para fins de renomeação no servidor e personalização de mensagens.
+
+•
+IDs de Mensagens (Message IDs): Identificadores únicos de mensagens do Discord, utilizados para rastrear as mensagens de ficha de verificação e permitir que o Bot as edite e atualize.
+
+•
+Dados de Configuração: Informações sobre cargos com tags automáticas (roletag.ini), cargos de recrutamento (recruit_roles.ini), e o canal de verificação (Channel.ini).
+
+Não coletamos:
+
+•
+Endereços de IP.
+
+•
+Informações pessoais sensíveis (como nome real, e-mail, idade, etc., a menos que fornecidas voluntariamente pelo usuário como parte de um apelido).
+
+•
+Conteúdo de mensagens privadas ou de canais, exceto quando diretamente relacionado a uma interação com o Bot (ex: comandos).
+
+2. Como Usamos Suas Informações
+
+As informações coletadas são utilizadas exclusivamente para os seguintes propósitos:
+
+•
+Operação do Bot: Para permitir que o Bot execute suas funções principais, como gerenciar cargos, processar verificações e responder a comandos.
+
+•
+Personalização: Para personalizar a experiência do usuário, como exibir o apelido definido ou o cargo atribuído.
+
+•
+Manutenção e Melhoria: Para depurar problemas, analisar o uso do Bot e implementar melhorias nas funcionalidades.
+
+3. Armazenamento e Segurança dos Dados
+
+As informações coletadas pelo Bot Cyclone são armazenadas em arquivos .ini no ambiente de execução do Bot. Estes arquivos são acessíveis apenas pelo próprio Bot.
+
+•
+Segurança: O Desenvolvedor toma medidas razoáveis para proteger as informações contra acesso não autorizado, alteração, divulgação ou destruição. No entanto, nenhum método de transmissão pela internet ou armazenamento eletrônico é 100% seguro, e não podemos garantir segurança absoluta.
+
+•
+Retenção de Dados: As informações são retidas enquanto o Bot estiver ativo no servidor do Discord e forem necessárias para a prestação do serviço. Se o Bot for removido de um servidor, os dados associados a esse servidor podem ser excluídos após um período razoável.
+
+4. Compartilhamento de Informações
+
+O Bot Cyclone não compartilha, vende, aluga ou divulga suas informações pessoais a terceiros, exceto nas seguintes circunstâncias:
+
+•
+Com o Discord: As interações com o Bot ocorrem dentro da plataforma Discord, e certas informações (como IDs de usuários e servidores) são inerentemente compartilhadas com o Discord para que o Bot possa funcionar.
+
+•
+Exigência Legal: Se formos obrigados por lei ou por uma ordem judicial válida a divulgar informações, faremos isso em conformidade com a legislação aplicável.
+
+5. Seus Direitos
+
+Como usuário do Discord, você tem certos direitos em relação aos seus dados:
+
+•
+Acesso e Correção: Você pode solicitar acesso às informações que o Bot armazena sobre você e solicitar correções, se necessário. Isso pode ser feito através dos administradores do servidor onde o Bot está presente ou entrando em contato com o Desenvolvedor.
+
+•
+Exclusão: Você pode solicitar a exclusão de suas informações armazenadas pelo Bot. Administradores de servidor podem remover o Bot, o que resultará na exclusão dos dados do servidor após um período. Para exclusão de dados específicos de usuário, entre em contato com o Desenvolvedor.
+
+6. Alterações a Esta Política de Privacidade
+
+O Desenvolvedor reserva-se o direito de atualizar ou modificar esta Política de Privacidade a qualquer momento. Quaisquer alterações entrarão em vigor imediatamente após a publicação da política revisada. É sua responsabilidade revisar periodicamente esta Política de Privacidade para estar ciente de quaisquer modificações. O uso continuado do Bot após a publicação de uma Política de Privacidade revisada constitui sua aceitação dessas alterações.
+
+7. Contato
+
+Se você tiver alguma dúvida ou preocupação sobre esta Política de Privacidade ou sobre as práticas de dados do Bot Cyclone, entre em contato com o Desenvolvedor através do servidor de suporte oficial do Bot ou por outros meios de contato fornecidos.
+
